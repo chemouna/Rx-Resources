@@ -14,9 +14,13 @@ To Aggregate resources to learn and understand RxJava, Rx Android (and Rx in gen
 * (Introduction to rx - Hot and Cold observables)[http://www.introtorx.com/Content/v1.0.10621.0/14_HotAndColdObservables.html#HotAndCold].
 * (RxJs explanation of Hot vs Cold observables)[https://github.com/Reactive-Extensions/RxJS/blob/master/doc/gettingstarted/creating.md].
 * (Hot and Cold Observables)[http://davesexton.com/blog/post/Hot-and-Cold-Observables.aspx#HCObCite3] by (Dave Sexton)[https://github.com/RxDave].
+* (Visualizing Reactive Streams: Hot and Cold Observables)[https://jaredforsyth.com/2015/03/06/visualizing-reactive-streams-hot-and-cold/].
 
 ## Operators 
 * (RxJava Tip of the day : Share, Publish, Refcount)[http://nerds.weddingpartyapp.com/tech/2015/01/21/rxjava-share-publish-refcount-and-all-that-jazz/] by (Kaushik Gopal)[https://github.com/kaushikgopal].
+* (Error Handling Operators)[https://github.com/ReactiveX/RxJava/wiki/Error-Handling-Operators].
+
+#Error Handling 
 
 ## Examples 
 * (Problem Solving Examples in RxJava)[https://github.com/ReactiveX/RxJava/wiki/Problem-Solving-Examples-in-RxJava]
@@ -24,8 +28,8 @@ To Aggregate resources to learn and understand RxJava, Rx Android (and Rx in gen
 ## Advanced 
 * [Series on Subjects](http://akarnokd.blogspot.fr/2015/06/subjects-part-1.html) by [Dávid Karnok](https://github.com/akarnokd)  
 
-## Slides 
-
+## Presentations 
+* (Reactive Programming with Rx)[https://speakerdeck.com/benjchristensen/reactive-programming-with-rx-at-qconsf-2014?slide=89] by Ben Christensen.
 
 ## Gists 
 
