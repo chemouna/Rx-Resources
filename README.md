@@ -13,6 +13,7 @@ To Aggregate resources to learn and understand RxJava, Rx Android (and Rx in gen
 ## Hot vs Cold 
 * (Introduction to rx - Hot and Cold observables)[http://www.introtorx.com/Content/v1.0.10621.0/14_HotAndColdObservables.html#HotAndCold].
 * (RxJs explanation of Hot vs Cold observables)[https://github.com/Reactive-Extensions/RxJS/blob/master/doc/gettingstarted/creating.md].
+* (Hot and Cold Observables)[http://davesexton.com/blog/post/Hot-and-Cold-Observables.aspx#HCObCite3] by (Dave Sexton)[https://github.com/RxDave].
 
 ## Operators 
 * (RxJava Tip of the day : Share, Publish, Refcount)[http://nerds.weddingpartyapp.com/tech/2015/01/21/rxjava-share-publish-refcount-and-all-that-jazz/] by (Kaushik Gopal)[https://github.com/kaushikgopal].
@@ -34,7 +35,8 @@ To Aggregate resources to learn and understand RxJava, Rx Android (and Rx in gen
 * (RxJava and Android Demos)[https://github.com/chemouna/RxJavaAndroidDemos]. 
 
 ## Videos 
-
+* (Channel 9's Rx API in depth: Hot and Cold observables)[https://channel9.msdn.com/Blogs/J.Van.Gogh/Rx-API-in-depth-Hot-and-Cold-observables].
+* 
 
 
 
