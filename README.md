@@ -6,7 +6,7 @@ To Aggregate resources to learn and understand RxJava, Rx Android (and Rx in gen
 ## Hot vs Cold 
 
 * [Rx vs Bacon](https://gist.github.com/mattpodwysocki/00bc7acebd6912998dc0).
-* The introduction to Reactive Programming you've been missing by [André staltz](https://github.com/staltz).
+* [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) by [André staltz](https://github.com/staltz).
  
 ## Advanced 
 * [Series on Subjects](http://akarnokd.blogspot.fr/2015/06/subjects-part-1.html) by [Dávid Karnok](https://github.com/akarnokd)  
