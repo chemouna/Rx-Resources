@@ -1,7 +1,7 @@
 # Rx-Resources
 To Aggregate resources to learn and understand RxJava, Rx Android (and Rx in general).
 
-[WIP] I will keep updating as i find new resources (My only rule is to understand the resource before putting it here (a sneaky way to make myself fully understand Rx)).
+[WIP] I will keep updating as i find new resources (My only rule is to understand the resource before putting it here).
 
 ## Hot vs Cold 
 
