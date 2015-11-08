@@ -3,15 +3,31 @@ To Aggregate resources to learn and understand RxJava, Rx Android (and Rx in gen
 
 [WIP] I will keep updating as i find new resources (My only rule is to understand the resource before putting it here).
 
+## Official resources 
+* (ReactiveX site)[http://reactivex.io/]
+
 ## Hot vs Cold 
 
 * [Rx vs Bacon](https://gist.github.com/mattpodwysocki/00bc7acebd6912998dc0).
 * [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) by [André staltz](https://github.com/staltz).
  
+## Examples 
+* (Problem Solving Examples in RxJava)[https://github.com/ReactiveX/RxJava/wiki/Problem-Solving-Examples-in-RxJava]
+
 ## Advanced 
 * [Series on Subjects](http://akarnokd.blogspot.fr/2015/06/subjects-part-1.html) by [Dávid Karnok](https://github.com/akarnokd)  
 
+## Slides 
+
+
+## Gists 
+
+## Github projects 
+
 ## Videos 
+
+
+
 
 
 
