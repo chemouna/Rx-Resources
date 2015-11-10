@@ -9,6 +9,7 @@ To Aggregate resources to learn and understand RxJava, Rx Android (and Rx in gen
 ## Introduction 
 * [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) by [André staltz](https://github.com/staltz).
 * [Rx vs Bacon](https://gist.github.com/mattpodwysocki/00bc7acebd6912998dc0).
+* [Introduction to Rx - Sequence basics](http://www.introtorx.com/content/v1.0.10621.0/04_CreatingObservableSequences.html).
 
 ## Hot vs Cold 
 * [Introduction to rx - Hot and Cold observables](http://www.introtorx.com/Content/v1.0.10621.0/14_HotAndColdObservables.html#HotAndCold).
