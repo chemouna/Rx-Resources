@@ -47,5 +47,7 @@ To Aggregate resources to learn and understand RxJava, Rx Android (and Rx in gen
 * [Euler problems solved with RxJava](https://github.com/chemouna/RxProblemSolving).
 * [RxJava and Android Demos](https://github.com/chemouna/RxJavaAndroidDemos).
 
+## Libraries
+* [RxRelay](https://github.com/JakeWharton/RxRelay).
 ## Videos
 * [Channel 9's Rx API in depth: Hot and Cold observables](https://channel9.msdn.com/Blogs/J.Van.Gogh/Rx-API-in-depth-Hot-and-Cold-observables).
