@@ -21,6 +21,8 @@ To Aggregate resources to learn and understand RxJava, Rx Android (and Rx in gen
 ## Operators
 * [RxJava Tip of the day : Share, Publish, Refcount](http://nerds.weddingpartyapp.com/tech/2015/01/21/rxjava-share-publish-refcount-and-all-that-jazz/) by [Kaushik Gopal](https://github.com/kaushikgopal).
 * [Error Handling Operators](https://github.com/ReactiveX/RxJava/wiki/Error-Handling-Operators).
+* [FlatMap on collections](http://martinfowler.com/articles/collection-pipeline/flat-map.html).
+
 
 ## Advanced
 * [Pitfalls of operator implementations (part 1)](http://akarnokd.blogspot.fr/2015/05/pitfalls-of-operator-implementations.html).
@@ -46,8 +48,11 @@ To Aggregate resources to learn and understand RxJava, Rx Android (and Rx in gen
 * [RxJava Android Samples](https://github.com/kaushikgopal/RxJava-Android-Samples).
 * [Euler problems solved with RxJava](https://github.com/chemouna/RxProblemSolving).
 * [RxJava and Android Demos](https://github.com/chemouna/RxJavaAndroidDemos).
+* [RxJavaJoins](https://github.com/ReactiveX/RxJavaJoins).
 
 ## Libraries
 * [RxRelay](https://github.com/JakeWharton/RxRelay).
+
+
 ## Videos
 * [Channel 9's Rx API in depth: Hot and Cold observables](https://channel9.msdn.com/Blogs/J.Van.Gogh/Rx-API-in-depth-Hot-and-Cold-observables).
