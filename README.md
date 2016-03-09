@@ -12,6 +12,7 @@ To Aggregate resources to learn and understand RxJava, Rx Android (and Rx in gen
 * [Introduction to Rx - Sequence basics](http://www.introtorx.com/content/v1.0.10621.0/04_CreatingObservableSequences.html).
 * [The Observable Contract](http://reactivex.io/documentation/contract.html).
 
+
 ## Hot vs Cold
 * [Introduction to rx - Hot and Cold observables](http://www.introtorx.com/Content/v1.0.10621.0/14_HotAndColdObservables.html#HotAndCold).
 * [RxJs explanation of Hot vs Cold observables](https://github.com/Reactive-Extensions/RxJS/blob/master/doc/gettingstarted/creating.md).
@@ -22,6 +23,7 @@ To Aggregate resources to learn and understand RxJava, Rx Android (and Rx in gen
 * [RxJava Tip of the day : Share, Publish, Refcount](http://nerds.weddingpartyapp.com/tech/2015/01/21/rxjava-share-publish-refcount-and-all-that-jazz/) by [Kaushik Gopal](https://github.com/kaushikgopal).
 * [Error Handling Operators](https://github.com/ReactiveX/RxJava/wiki/Error-Handling-Operators).
 * [FlatMap on collections](http://martinfowler.com/articles/collection-pipeline/flat-map.html).
+* [RX GLITCHES AREN'T ACTUALLY A PROBLEM](http://staltz.com/rx-glitches-arent-actually-a-problem.html)
 
 
 ## Advanced
