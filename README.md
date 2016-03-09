@@ -37,6 +37,7 @@ To Aggregate resources to learn and understand RxJava, Rx Android (and Rx in gen
 ## Presentations
 * [Reactive Programming with Rx](https://speakerdeck.com/benjchristensen/reactive-programming-with-rx-at-qconsf-2014?slide=89) by [Ben Christensen](https://github.com/benjchristensen).
 * [Applying Reactive Programming with RxJava By ](https://speakerdeck.com/benjchristensen/applying-reactive-programming-with-rxjava-at-goto-chicago-2015) by [Ben Christensen](https://github.com/benjchristensen).
+* [Reactive Extensions : RxJava](https://speakerdeck.com/chemouna/reactive-extensions-rxjava).
 
 ## Gists
 
