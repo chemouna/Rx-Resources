@@ -27,7 +27,7 @@ To Aggregate resources to learn and understand RxJava, Rx Android (and Rx in gen
 
 ## RxJava 2.0
 
-##Error Handling
+## Error Handling
 
 ## Examples
 * [Problem Solving Examples in RxJava](https://github.com/ReactiveX/RxJava/wiki/Problem-Solving-Examples-in-RxJava)
@@ -35,6 +35,7 @@ To Aggregate resources to learn and understand RxJava, Rx Android (and Rx in gen
 ## Advanced
 * [Series on Subjects](http://akarnokd.blogspot.fr/2015/06/subjects-part-1.html) by [Dávid Karnok](https://github.com/akarnokd)  
 * [Pitfalls of operator implementations (part 1)](http://akarnokd.blogspot.fr/2015/05/pitfalls-of-operator-implementations.html).
+* [Comparing Core Async and Rx by Example](http://www.jayway.com/2014/09/16/comparing-core-async-and-rx-by-example/)
 
 ## Presentations
 * [Reactive Programming with Rx](https://speakerdeck.com/benjchristensen/reactive-programming-with-rx-at-qconsf-2014?slide=89) by [Ben Christensen](https://github.com/benjchristensen).
