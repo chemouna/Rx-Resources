@@ -8,7 +8,7 @@ To Aggregate resources to learn and understand RxJava, Rx Android (and Rx in gen
 
 ## Introduction
 * [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) by [André staltz](https://github.com/staltz).
-* [Rx vs Bacon](https://gist.github.com/mattpodwysocki/00bc7acebd6912998dc0).
+  * [Rx vs Bacon](https://gist.github.com/mattpodwysocki/00bc7acebd6912998dc0).
 * [Introduction to Rx - Sequence basics](http://www.introtorx.com/content/v1.0.10621.0/04_CreatingObservableSequences.html).
 * [The Observable Contract](http://reactivex.io/documentation/contract.html).
 
@@ -25,13 +25,7 @@ To Aggregate resources to learn and understand RxJava, Rx Android (and Rx in gen
 * [FlatMap on collections](http://martinfowler.com/articles/collection-pipeline/flat-map.html).
 * [RX GLITCHES AREN'T ACTUALLY A PROBLEM](http://staltz.com/rx-glitches-arent-actually-a-problem.html)
 
-
-## Advanced
-* [Pitfalls of operator implementations (part 1)](http://akarnokd.blogspot.fr/2015/05/pitfalls-of-operator-implementations.html).
-
-
 ## RxJava 2.0
-
 
 ##Error Handling
 
@@ -40,9 +34,12 @@ To Aggregate resources to learn and understand RxJava, Rx Android (and Rx in gen
 
 ## Advanced
 * [Series on Subjects](http://akarnokd.blogspot.fr/2015/06/subjects-part-1.html) by [Dávid Karnok](https://github.com/akarnokd)  
+* [Pitfalls of operator implementations (part 1)](http://akarnokd.blogspot.fr/2015/05/pitfalls-of-operator-implementations.html).
 
 ## Presentations
 * [Reactive Programming with Rx](https://speakerdeck.com/benjchristensen/reactive-programming-with-rx-at-qconsf-2014?slide=89) by [Ben Christensen](https://github.com/benjchristensen).
+* [Applying Reactive Programming with RxJava By ](https://speakerdeck.com/benjchristensen/applying-reactive-programming-with-rxjava-at-goto-chicago-2015) by [Ben Christensen](https://github.com/benjchristensen).
+* [Reactive Extensions : RxJava](https://speakerdeck.com/chemouna/reactive-extensions-rxjava).
 
 ## Gists
 
@@ -55,6 +52,6 @@ To Aggregate resources to learn and understand RxJava, Rx Android (and Rx in gen
 ## Libraries
 * [RxRelay](https://github.com/JakeWharton/RxRelay).
 
-
 ## Videos
 * [Channel 9's Rx API in depth: Hot and Cold observables](https://channel9.msdn.com/Blogs/J.Van.Gogh/Rx-API-in-depth-Hot-and-Cold-observables).
+* [Applying Reactive Programming with Rx • Ben Christensen](https://www.youtube.com/watch?v=8OcCSQS0tug).
