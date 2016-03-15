@@ -24,6 +24,7 @@ To Aggregate resources to learn and understand RxJava, Rx Android (and Rx in gen
 * [Error Handling Operators](https://github.com/ReactiveX/RxJava/wiki/Error-Handling-Operators).
 * [FlatMap on collections](http://martinfowler.com/articles/collection-pipeline/flat-map.html).
 * [RX GLITCHES AREN'T ACTUALLY A PROBLEM](http://staltz.com/rx-glitches-arent-actually-a-problem.html)
+* [Deferring Observable code until subscription in RxJava](http://blog.danlew.net/2015/07/23/deferring-observable-code-until-subscription-in-rxjava/)
 
 ## RxJava 2.0
 
