@@ -33,6 +33,11 @@ To Aggregate resources to learn and understand RxJava, Rx Android (and Rx in gen
 ## Examples
 * [Problem Solving Examples in RxJava](https://github.com/ReactiveX/RxJava/wiki/Problem-Solving-Examples-in-RxJava)
 
+## Android
+* [Google Agera](https://github.com/google/agera)
+* [RxAgera](https://github.com/akarnokd/RxAgera.git)
+* [RxBinding](https://github.com/JakeWharton/RxBinding)
+
 ## Advanced
 * [Series on Subjects](http://akarnokd.blogspot.fr/2015/06/subjects-part-1.html) by [Dávid Karnok](https://github.com/akarnokd)  
 * [Pitfalls of operator implementations (part 1)](http://akarnokd.blogspot.fr/2015/05/pitfalls-of-operator-implementations.html).
@@ -43,7 +48,7 @@ To Aggregate resources to learn and understand RxJava, Rx Android (and Rx in gen
 * [Applying Reactive Programming with RxJava By ](https://speakerdeck.com/benjchristensen/applying-reactive-programming-with-rxjava-at-goto-chicago-2015) by [Ben Christensen](https://github.com/benjchristensen).
 * [Reactive Extensions : RxJava](https://speakerdeck.com/chemouna/reactive-extensions-rxjava).
 
-## Tools 
+## Tools
 * [RxMarbles](http://rxmarbles.com/)
 
 ## Gists
