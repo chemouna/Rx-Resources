@@ -26,10 +26,6 @@ To Aggregate resources to learn and understand RxJava, Rx Android (and Rx in gen
 * [RX GLITCHES AREN'T ACTUALLY A PROBLEM](http://staltz.com/rx-glitches-arent-actually-a-problem.html)
 * [Deferring Observable code until subscription in RxJava](http://blog.danlew.net/2015/07/23/deferring-observable-code-until-subscription-in-rxjava/)
 
-## RxJava 2.0
-
-## Error Handling
-
 ## Examples
 * [Problem Solving Examples in RxJava](https://github.com/ReactiveX/RxJava/wiki/Problem-Solving-Examples-in-RxJava)
 
